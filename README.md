@@ -2,7 +2,7 @@
 
 Command:
 
-mvn archetype:generate -B \
+mvn archetype:generate -B \  
  -DarchetypeGroupId=br.jus.abc.referencia \  
  -DarchetypeArtifactId=spring-backend \  
  -DarchetypeVersion=1.0.0-SNAPSHOT \  
