@@ -1,6 +1,7 @@
 # referencia-archetype
 
 Command:
+
 mvn archetype:generate -B \
  -DarchetypeGroupId=br.jus.abc.referencia \
  -DarchetypeArtifactId=spring-backend \
