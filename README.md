@@ -1,6 +1,8 @@
 # referencia-archetype
 
-Command:
+## Arquétipo para criação de projeto de backend utilizando Spring baseado na arquitetura de referência.
+
+## Utilização - criação de um novo projeto:
 
 mvn archetype:generate -B \  
  -DarchetypeGroupId=br.jus.abc.referencia \  
